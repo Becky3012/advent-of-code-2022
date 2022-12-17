@@ -1,3 +1,3 @@
 # advent-of-code-2022
 
-bla bla
+Meine Lösungen für Advent Of Code 2022 :)
